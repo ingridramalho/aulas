@@ -1,3 +1,9 @@
 h1 {
     color: mediumorchid;
 }
+
+p {
+    color: dimgray;
+    background-color: mediumaquamarine;
+    font-size: 24px;
+}
