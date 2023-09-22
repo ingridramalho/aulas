@@ -1,3 +1,11 @@
+#titulo-id {
+    color: deepskyblue;
+}
+
+.cor-roxa {
+    color: mediumpurple;
+}
+
 h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: hotpink;
@@ -10,6 +18,19 @@ p {
     line-height: 36px;
 }
 
+h2 {
+    color: lightpink;
+}
+
 .fundo-azul {
     background: lightskyblue;
+}
+
+.fonte-grande {
+    font-size: 50px;
+}
+
+#titulo-principal {
+    background: violet;
+    color: white';
 }
