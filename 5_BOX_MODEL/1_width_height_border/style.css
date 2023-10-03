@@ -4,5 +4,6 @@
     border-style: solid;
     border-color: #f00;
 
-    /* shorthand = */
-}
+    /* shorthand = varios valores na mesma propriedade*/
+  border: 2px solid #f00;
+}  
